@@ -1,0 +1,71 @@
+
+body {
+    background-color: #F51ACE;
+}
+
+.container{
+	background-color: #ffffff;
+}
+
+h1 {
+    color: #8DD7C7;
+    text-align: center;
+}
+
+h2{
+    color: #F51ACE;
+    text-align: left;
+}
+h3{
+    color: #BE2CA2;
+    text-align: left;
+}
+
+h4{
+    color: #D6B05F;
+    text-align: left;
+}
+h5 {
+    color: #B0A7F7;
+    text-align: center;
+}
+
+	
+
+.column {
+     width:300px;
+     float:left
+     text-align: center;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+p {
+    font-family: "Georgia";
+    font-size: 15px;
+    color: #000000;
+}
+
+
+.block {
+display: block;
+}
+
+
+div{
+	background-color: #93F09F;
+	border-style: solid;
+    border-color: #0E0E0E;
+    width:1000px;
+    height:1200px
+    text-align:center;
+    margin-bottom: 10px;
+    margin: auto;
+    border-radius: 10px
+}
+
+
